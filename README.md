@@ -23,24 +23,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Universal Context Layers)
 
-- **[Unabyss](https://unabyss.ai/)**  
-  AI-native universal context layer that unifies data, knowledge, and business logic for agents and analytics.
-
-- **[Atlan](https://atlan.com/)**  
-  Modern data catalog and active metadata platform with strong semantic layer and AI governance features.
-
-- **[Snowflake Horizon Context](https://snowflake.com/)**  
-  Snowflake’s intelligent context and semantic layer for unified data access and AI workloads.
-
-- **[dbt Semantic Layer](https://www.getdbt.com/)**  
-  Powerful semantic modeling layer that provides consistent business metrics across tools and AI agents.
-
-- **[Attio](https://attio.com/)**  
-  Flexible CRM and data platform with strong context layer capabilities for operational and AI use cases.
+| Product | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **[Unabyss](https://unabyss.ai/)** | AI-native universal context layer that unifies data, knowledge, and business logic for agents and analytics. | **Freemium (Pay-as-you-go).** Includes **$5 in free credits** on signup. No feature restrictions on the free tier. |
+| **[Atlan](https://atlan.com/)** | Modern data catalog and active metadata platform with strong semantic layer and AI governance features. | **Enterprise.** No self-serve free tier. Offers a **14-30 day free trial**. Pricing typically starts at $50k+/year. |
+| **[Snowflake Horizon](https://snowflake.com/)** | Snowflake’s intelligent context and semantic layer for unified data access and AI workloads. | **Consumption-based.** Included with Snowflake credits. 10% free allowance for Cloud Services metadata tasks. |
+| **[dbt Semantic Layer](https://www.getdbt.com/)** | Powerful semantic modeling layer that provides consistent business metrics across tools and AI agents. | **Freemium.** **Free Developer plan** (1 seat/1 project). Starter plan ($100/seat) includes 5,000 queried metrics/month. |
+| **[Attio](https://attio.com/)** | Flexible CRM and data platform with strong context layer capabilities for operational and AI use cases. | **Free Tier.** Up to **3 users** and **50,000 records**. Includes 100-250 AI/enrichment credits per month. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Cube, MetricFlow, and various enterprise semantic layer solutions.
+| Product | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **[Cube Cloud](https://cube.dev/)** | Managed semantic layer and API platform for building consistent data access layers. | **Free Tier.** Up to **2 shared deployments** and **1,000 queries/day**. No caching in the free tier. |
+| **[MetricFlow](https://www.getdbt.com/product/semantic-layer)** | Managed semantic metrics layer (now integrated into dbt Semantic Layer). | **Freemium.** Included in dbt Cloud. Developer plan is free; Starter plan is $100/seat with 5,000 metrics included. |
+
+**Other notable mentions**: Various enterprise semantic layer solutions like Looker (Modelless), ThoughtSpot (Sage), and Microsoft Fabric (OneLake).
 
 ## Open-Source GitHub Projects
 
