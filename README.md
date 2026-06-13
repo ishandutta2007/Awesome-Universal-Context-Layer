@@ -9,6 +9,9 @@
   <a href="https://github.com/ishan/Awesome-Universal-Context-Layer/network/members"><img src="https://img.shields.io/github/forks/ishan/Awesome-Universal-Context-Layer?style=for-the-badge&color=blue" alt="Forks"></a>
   <a href="https://github.com/ishan/Awesome-Universal-Context-Layer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishan/Awesome-Universal-Context-Layer?style=for-the-badge&color=green" alt="License"></a>
   <a href="https://github.com/ishan/Awesome-Universal-Context-Layer/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>  
 </p>
 
 ---
