@@ -21,16 +21,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-| Product | Description | Company Size (Valuation/Revenue) | Pricing & Free Tier |
+| Product | Description | Company Size (Market Cap / Valuation) | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
-| **[Snowflake Horizon](https://snowflake.com/)** | Snowflake’s intelligent context and semantic layer for unified data access and AI workloads. | **~$80B+ Market Cap** / ~$4.6B Rev | **Consumption-based.** Included with Snowflake credits. 10% free allowance for Cloud Services metadata tasks. |
+| **[Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric)** | Unified data platform and semantic layer (OneLake) for enterprise-wide context and AI integration. | **~$3.1T Market Cap** | **Capacity-based.** Free trial available. Included with certain Power BI/M365 licenses. |
+| **[Looker](https://cloud.google.com/looker)** | Google Cloud's modern BI platform with a robust semantic modeling layer (LookML) for unified context. | **~$2.1T Market Cap** | **Subscription-based.** Starting at ~$3,000/mo. No permanent free tier; offers free trials. |
+| **[Snowflake Horizon](https://snowflake.com/)** | Snowflake’s intelligent context and semantic layer for unified data access and AI workloads. | **~$80B Market Cap** / ~$4.6B Rev | **Consumption-based.** Included with Snowflake credits. 10% free allowance for Cloud Services metadata tasks. |
+| **[ThoughtSpot](https://thoughtspot.com/)** | AI-powered analytics with "Sage" for natural language queries and a strong semantic context layer. | **$4.5B Valuation** / ~$500M ARR | **Consumption-based.** Team edition starts at **$95/month**. Offers a **30-day free trial**. |
 | **[dbt Semantic Layer](https://www.getdbt.com/)** | Powerful semantic modeling layer that provides consistent business metrics across tools and AI agents. | **$4.2B Valuation** / ~$100M ARR | **Freemium.** **Free Developer plan** (1 seat). Starter plan ($100/seat) includes 5,000 queried metrics/month. |
 | **[Atlan](https://atlan.com/)** | Modern data catalog and active metadata platform with strong semantic layer and AI governance features. | **$750M Valuation** / ~$40M ARR | **Enterprise.** No self-serve free tier. Offers a **14-30 day free trial**. Pricing typically starts at $50k+/year. |
-| **[Attio](https://attio.com/)** | Flexible CRM and data platform with strong context layer capabilities for operational and AI use cases. | **~$300M+ Val (Est)** / ~$10M ARR | **Free Tier.** Up to **3 users** and **50,000 records**. Includes 100-250 AI/enrichment credits per month. |
-| **[Cube Cloud](https://cube.dev/)** | Managed semantic layer and API platform for building consistent data access layers. | **~$45M+ Val (Est)** / ~$12M ARR | **Free Tier.** Up to **2 shared deployments** and **1,000 queries/day**. No caching in the free tier. |
-| **[Unabyss](https://unabyss.ai/)** | AI-native universal context layer that unifies data, knowledge, and business logic for agents and analytics. | **Early Stage / Seed** | **Freemium (Pay-as-you-go).** Includes **$5 in free credits** on signup. No feature restrictions. |
+| **[Attio](https://attio.com/)** | AI-native CRM with a built-in Universal Context layer for GTM teams and AI orchestration. | **~$300M+ Val (Est)** / ~$10M ARR | **Free Tier.** Up to **3 users** and **50,000 records**. Includes 100-250 AI/enrichment credits per month. |
+| **[AtScale](https://atscale.com/)** | Bridges cloud data warehouses to LLMs using natural language semantic mapping and OLAP performance. | **~$300M Valuation** (Est) | **Enterprise.** No self-serve free tier. Offers custom trials and proof-of-concept deployments. |
+| **[Cube Cloud](https://cube.dev/)** | Managed semantic layer and API platform for building consistent data access layers. | **~$250M Valuation** (Est) | **Free Tier.** Up to **1,000 queries/day**. Starter plans from **$40/user/mo** include Cube Store caching. |
+| **[Unabyss](https://unabyss.ai/)** | AI-native universal context layer that unifies data, knowledge, and business logic for agents. | **Early Stage / Seed** | **Freemium.** Includes **$5 in free credits** on signup. Pay-as-you-go with no feature restrictions. |
 
-**Other notable mentions**: Looker (Modelless), ThoughtSpot (Sage), and Microsoft Fabric (OneLake).
+**Other notable mentions**: Sisense, GoodData, and specialized RAG-native context engines.
 
 ## Open-Source GitHub Projects
 
