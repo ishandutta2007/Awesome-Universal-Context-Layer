@@ -74,6 +74,7 @@ In the era of **Large Language Models (LLMs)** and **Autonomous AI Agents**, raw
 - 🌾 **[Haystack](https://github.com/deepset-ai/haystack)** — Build production-ready RAG pipelines and semantic search systems.
 - 🧠 **[Mem0](https://github.com/mem0ai/mem0)** — Smart memory layer for AI agents with long-term semantic recall.
 - ⚡ **[Zep](https://github.com/getzep/zep)** — Fast, scalable long-term memory store for conversational AI and agents.
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** - Developer-alpha Rust knowledge store with encrypted, append-only records and scoped, expiring MCP grants for agent context access.
 
 ---
 
